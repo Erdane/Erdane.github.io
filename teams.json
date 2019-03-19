@@ -1,11 +1,58 @@
 [
-{
-"name":"Saints",
-"id":"1"
-},
-{
-"name":"Saints",
-"id":"2"
-}
-]
+  { "name": "Bears",
+    "id": "1"
+  },
+  {
+    "name": "Bengals",
+    "id": "2"
+  },
+  {
+    "name": "Bills",
+    "id": "3"
+  },
+  { "name": "Browns",
+    "id": "4"
+  },
+  { "name": "Buccaneers",
+    "id": "5"
+  },
+  { "name": "Cardinals",
+    "id": "6"
+  },
+  { "name": "Chargers",
+    "id": "7"
+  },
+  { "name": "Chiefs",
+    "id": "8"
+  },
+  { "name": "Colts",
+    "id": "9"
+  },
+  { "name": "Cowboys",
+    "id": "10"
+  },
+  { "name": "Denver",
+    "id": "11"
+  },
+  { "name": "Dolphins",
+    "id": "12"
+  },
+  { "name": "Eagles",
+    "id": "13"
+  },
+  { "name": "Falcons",
+    "id": "14"
+  },
+  { "name": "Giants",
+    "id": "15"
+  },
+  { "name": "Jaguars",
+    "id": "16"
+  },
+  { "name": "Jets",
+    "id": "17"
+  },
+  { "name": "Lions",
+    "id": "18"
+  },
 
