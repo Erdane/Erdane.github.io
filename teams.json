@@ -1,101 +1,101 @@
 [
   { "name": "Bears",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bears.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bears.png"
   },
   {
     "name": "Bengals",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bengals.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bengals.png"
   },
   {
     "name": "Bills",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bills.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bills.png"
   },
   { "name": "Browns",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_browns.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_browns.png"
   },
   { "name": "Buccaneers",
-   "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_buccaneers.png",
+   "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_buccaneers.png"
   },
   { "name": "Cardinals",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_cardinals.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_cardinals.png"
   },
   { "name": "Chargers",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_chargers.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_chargers.png"
   },
   { "name": "Chiefs",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_chiefs.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_chiefs.png"
   },
   { "name": "Colts",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_colts.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_colts.png"
   },
   { "name": "Cowboys",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_cowboys.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_cowboys.png"
   },
   { "name": "Denver",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_denver.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_denver.png"
   },
   { "name": "Dolphins",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_dolphins.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_dolphins.png"
   },
   { "name": "Eagles",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_eagles.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_eagles.png"
   },
   { "name": "Falcons",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_falcons.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_falcons.png"
   },
   { "name": "Giants",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_giants.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_giants.png"
   },
   { "name": "Jaguars",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_jaguars.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_jaguars.png"
   },
   { "name": "Jets",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_jets.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_jets.png"
   },
   { "name": "Lions",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_lions.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_lions.png"
+  },
   { "name": "Packers",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_packers.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_packers.png"
+  },
   { "name": "Panthers",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_panthers.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_panthers.png"
+  },
   { "name": "Patriots",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_patriots.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_patriots.png"
+  },
   { "name": "Raiders",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_raiders.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_raiders.png"
+  },
   { "name": "Rams",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_rams.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_rams.png"
+  },
   { "name": "Ravens",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_ravens.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_ravens.png"
+  },
   { "name": "Redskins",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_redskins.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_redskins.png"
+  },
   { "name": "Saints",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_saints.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_saints.png"
+  },
   { "name": "Seahawks",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_seahawks.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_seahawks.png"
+  },
   { "name": "Steelers",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_steelers.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_steelers.png"
+  },
   { "name": "Texans",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_texans.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_texans.png"
+  },
   { "name": "Titans",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_titans.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_titans.png"
+  },
   { "name": "Vikings",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_vikings.png",
-  }
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_vikings.png"
+  },
    { "name": "49ers",
-    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_49ers.png",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_49ers.png"
   }
   
   ]
