@@ -1,0 +1,284 @@
+[
+  { "name": "Bears",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bears.png",
+   "keyPlayers": [
+       {
+         "name" : "Ha Ha Clinton-Dix",
+         "poste" : "S"
+      }
+    ] 
+  },
+  {
+    "name": "Bengals",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bengals.png",
+    "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  {
+    "name": "Bills",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bills.png",
+    "keyPlayers": [
+      {"name" : "Mitch Morse",
+      "poste" : "C"
+      }
+    ]
+  },
+  { "name": "Broncos",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_broncos.png",
+    "keyPlayers": [
+      {"name" : "Bryce Callahan",
+      "poste" : "CB"
+      }
+    ]
+  },
+  { "name": "Browns",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_browns.png",
+    "keyPlayers": [
+      {"name" : "Odell Beckham",
+      "poste" : "WR"
+      }
+    ]
+  },
+  { "name": "Buccaneers",
+   "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_buccaneers.png",
+   "keyPlayers": [
+      {"name" : "Shaquill Barett",
+      "poste" : "DE/OLB"
+      }
+    ]
+  },
+  { "name": "Cardinals",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_cardinals.png",
+    "keyPlayers": [
+     {"name" : "Jordan Hicks",
+      "poste" : "LB"
+      }
+    ]
+  },
+  { "name": "Chargers",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_chargers.png",
+    "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Chiefs",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_chiefs.png",
+    "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Colts",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_colts.png",
+    "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+     ]
+  },
+  { "name": "Cowboys",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_cowboys.png",
+    "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Denver",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_denver.png",
+    "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Dolphins",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_dolphins.png",
+    "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Eagles",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_eagles.png",
+    "keyPlayers": [
+     {"name" : "Ronald Darby",
+      "poste" : "CB"
+      },
+      { "name" : "Malik Jackson",
+        "poste" : "DT"
+      }
+    ]
+  },
+  { "name": "Falcons",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_falcons.png",
+    "keyPlayers": [
+      {"name" : "James Carpenter",
+      "poste" : "OG"
+      }
+    ]
+  },
+  { "name": "Giants",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_giants.png",
+    "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Jaguars",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_jaguars.png",
+    "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Jets",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_jets.png",
+    "keyPlayers": [
+     {"name" : "Le'Veon Bell",
+      "poste" : "RB"
+      }
+    ]
+  },
+  { "name": "Lions",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_lions.png",
+   "keyPlayers": [
+     {"name" : "Jesse James",
+      "poste" : "TE"
+      }
+    ]
+  },
+  { "name": "Packers",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_packers.png",
+    "keyPlayers": [
+     {"name" : "Za'Darius Smith",
+      "poste" : "DE/OLB"
+      }
+    ]
+  },
+  { "name": "Panthers",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_panthers.png",
+    "keyPlayers": [
+     {"name" : "Le'Veon Bell",
+      "poste" : "RB"
+      },
+      {"name": "Daryl Williams",
+       "poste" : "OL"
+      },
+      {"name" : " Matt Paradis",
+       "poste" : "OL"
+      }
+      
+    ]
+  },
+  { "name": "Patriots",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_patriots.png",
+    "keyPlayers": [
+     {"name" : "Michael Bennet",
+      "poste" : "DL"
+      }
+    ]
+  },
+  { "name": "Raiders",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_raiders.png",
+    "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Rams",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_rams.png",
+    "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Ravens",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_ravens.png",
+    "keyPlayers": [
+      {"name" : "Earl Thomas",
+      "poste" : "S"
+      },
+      {"name" : "Mark Ingram",
+       "poste" : "RB"
+      }
+    ]
+  },
+  { "name": "Redskins",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_redskins.png",
+    "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Saints",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_saints.png",
+     "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Seahawks",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_seahawks.png",
+     "keyPlayers": [
+     {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Steelers",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_steelers.png",
+    "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Texans",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_texans.png",
+    "keyPlayers":  [
+     {"name" : "Bradley Roby",
+      "poste" : "CB"
+      }
+    ]
+  },
+  { "name": "Titans",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_titans.png",
+    "keyPlayers": [
+      {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+  { "name": "Vikings",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_vikings.png",
+    "keyPlayers": [
+    {"name" : "null",
+      "poste" : "null"
+      }
+    ]
+  },
+   { "name": "49ers",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_49ers.png",
+    "keyPlayers": [
+     {"name" : "Tevin Coleman",
+      "poste" : "RB"
+      }
+    ]
+  }
+  
+  ]
+
