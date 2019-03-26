@@ -1,6 +1,13 @@
 
-  { "name": "Bears",
+  [
+    { "name": "Bears",
     "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bears.png",
    "keyPlayers": "Ha Ha Clinton-Dix    S"
-   }
+   },
+{
+    "name": "Bengals",
+    "imageURL": "https://github.com/Erdane/Erdane.github.io/blob/master/logo_bengals.png",
+    "keyPlayers": "null"
+}
+    ]
  
